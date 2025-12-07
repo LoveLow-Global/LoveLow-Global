@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Jihyung Kim 👋
 
-<!--
-**LoveLow-Global/LoveLow-Global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am double majoring in Creative Technology Management and Mathematics at Yonsei University, and currently a Computer Science exchange student at Dartmouth College. Passionate about **Artificial Intelligence**, **Natural Language Processing**, and **Graph Theory**.
 
-Here are some ideas to get you started:
+Currently based in Montréal, Canada and New Hampshire, US.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Ongoing Research / Projects
+
+I am actively involved in research across Mathematics, NLP, and AI. These are my ongoing researches.
+
+### 1. [Bernoulli-Directed Divisor Graphs and its Largest SCC](https://github.com/LoveLow-Global/BDDG_LCC)
+*(Dartmouth College, May 2025-Present)*
+* **Focus:** Graphs, Probability Theory, Number Theory
+* **Discovery:** Discovered that a randomly directed divisor graph forms a largest Strongly Connected Component (SCC) with unique, previously unseen properties.
+
+### 2. Comparison between Classical Chinese and Modern Languages in Language Model Pre-Training
+*(Dartmouth College, Oct 2025-Present)*
+* **Focus:** Natural Language Processing, Large Language Models, ALBERT, Artificial Intelligence
+* **Project:** Executing an NLP study utilizing ALBERT models to quantify and compare performance across historical and modern corpora of languages, including Modern English and Classical / Modern Chinese.
+
+### 3. [K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media](https://github.com/LoveLow-Global/kpop-agenda-sentiment)
+*(Yonsei University, Mar 2025-Apr 2025 & Nov 2025-Present)*
+* **Focus:** Natural Language Processing, Topic Modeling, Information Diffusion
+* **Project** Analyzing K-pop related articles by sorting them into distinct agenda topics, then comparing the characteristics of community response and sentiment diffusion across different online communities.
+## 🎓 Education & Honors
+
+| Institution | Degree/Program | GPA / Honors |
+| :--- | :--- | :--- |
+| **Yonsei University** | B.S. in Creative Technology Management & B.S. in Mathematics  | GPA: 4.09/4.3, Major GPA: 4.26/4.3. Scheduled for early graduation. Awarded High Honors, Spring 2025. |
+| **Dartmouth College** | Exchange Student in Computer Science | GPA: 3.9/4.0. Selected as a Neukom Scholar for Winter 2026 for research on [Bernoulli-Directed Divisor Graphs and its Largest Strongly Connected Components](https://github.com/LoveLow-Global/BDDG_LCC). Selected as an **AI/Software specialized scholar** by the Korea Institute of Advanced Technology. |
+
+## 🛠️ Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Programming** | Julia (Proficient) , Python (Competent), Rust (Familiar), R (Familiar)|
+| **Languages** | Korean (Native) , English (Expert) |
+
+## 🎮 Background
+
+Before coming to college, I used to be an **Esports Analyst and Coach**, implementing data-informed strategies and directing remote coaching for professional teams across Japan, North America, and Taiwan.
+
+I used to be a **Teaching Assistant** at Yonsei University, where I gave lectures one hour per week and provided support for the Computer Programming and Literacy course, in a class of 28 students.
+
+I love snowboarding in winter, try to find me on the slopes! In other seasons, I play baseball.
+
+## 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/lovelow](https://www.linkedin.com/in/lovelow)
+* **Email:** awesomepeoplefund@gmail.com or lovelow@yonsei.ac.kr or Jihyung.Kim.UG@dartmouth.edu
