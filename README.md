@@ -1,12 +1,12 @@
 # Hi, I'm Jihyung Kim 👋
 
-I am double majoring in Creative Technology Management and Mathematics at Yonsei University, and currently a Computer Science exchange student at Dartmouth College. Passionate about **Artificial Intelligence**, **Natural Language Processing**, and **Graph Theory**.
+I am double majoring in Creative Technology Management and Mathematics at Yonsei University, and currently a Computer Science exchange student at Dartmouth College. Passionate about **Graphs / Networks** and **NLP / Machine Learning**.
 
-Currently based in Montréal, Canada and New Hampshire, US.
+Currently based in New Hampshire, US.
 
-## 🧠 Ongoing Research / Projects
+## Ongoing Projects
 
-I am actively involved in research across Mathematics, NLP, and AI. These are my ongoing researches.
+These are my ongoing projects / researches.
 
 ### 1. [Bernoulli-Directed Divisor Graphs and its Largest SCC](https://github.com/LoveLow-Global/BDDG_LCC)
 *(Dartmouth College, May 2025-Present)*
@@ -22,6 +22,7 @@ I am actively involved in research across Mathematics, NLP, and AI. These are my
 *(Yonsei University, Mar 2025-Apr 2025 & Nov 2025-Present)*
 * **Focus:** Natural Language Processing, Topic Modeling, Information Diffusion
 * **Project** Analyzing K-pop related articles by sorting them into distinct agenda topics, then comparing the characteristics of community response and sentiment diffusion across different online communities.
+
 ## 🎓 Education & Honors
 
 | Institution | Degree/Program | GPA / Honors |
