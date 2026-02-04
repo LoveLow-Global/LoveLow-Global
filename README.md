@@ -1,6 +1,6 @@
 # Hi, I'm Jihyung Kim 👋
 
-I am double majoring in Creative Technology Management and Mathematics at Yonsei University, and currently a Computer Science exchange student at Dartmouth College. Passionate about **Graphs / Networks** and **NLP / Machine Learning**.
+I am triple majoring in Creative Technology Management, Mathematics, and Cognitive Science at Yonsei University (although I will likely drop one of the three majors before graduation), and currently a Computer Science exchange student at Dartmouth College. Passionate about **Graphs / Networks** and **NLP / Machine Learning**.
 
 Currently based in New Hampshire, US.
 
