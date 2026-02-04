@@ -1,4 +1,4 @@
-# Hi, I'm Jihyung Kim 👋
+# Hi, I'm Jihyung Kim
 
 I am triple majoring in Creative Technology Management, Mathematics, and Cognitive Science at Yonsei University (although I will likely drop one of the three majors before graduation), and currently a Computer Science exchange student at Dartmouth College. Passionate about **Graphs / Networks** and **NLP / Machine Learning**.
 
@@ -23,21 +23,21 @@ These are my ongoing projects / researches.
 * **Focus:** Natural Language Processing, Topic Modeling, Information Diffusion
 * **Project** Analyzing K-pop related articles by sorting them into distinct agenda topics, then comparing the characteristics of community response and sentiment diffusion across different online communities.
 
-## 🎓 Education & Honors
+## Education & Honors
 
 | Institution | Degree/Program | GPA / Honors |
 | :--- | :--- | :--- |
-| **Yonsei University** | B.S. in Creative Technology Management & B.S. in Mathematics  | GPA: 4.09/4.3, Major GPA: 4.26/4.3. Scheduled for early graduation. Awarded High Honors, Spring 2025. |
+| **Yonsei University** | B.S. in Creative Technology Management & B.S. in Mathematics & Cognitive Science | GPA: 4.09/4.3, Major GPA: 4.26/4.3. Scheduled for early graduation. Awarded High Honors, Spring 2025. |
 | **Dartmouth College** | Exchange Student in Computer Science | GPA: 3.9/4.0. Selected as a Neukom Scholar for Winter 2026 for research on [Bernoulli-Directed Divisor Graphs and its Largest Strongly Connected Components](https://github.com/LoveLow-Global/BDDG_LCC). Selected as an **AI/Software specialized scholar** by the Korea Institute of Advanced Technology. |
 
-## 🛠️ Skills
+## Skills
 
 | Category | Skills |
 | :--- | :--- |
 | **Programming** | Julia (Proficient) , Python (Competent), Rust (Familiar), R (Familiar)|
 | **Languages** | Korean (Native) , English (Expert) |
 
-## 🎮 Background
+## Background
 
 Before coming to college, I used to be an **Esports Analyst and Coach**, implementing data-informed strategies and directing remote coaching for professional teams across Japan, North America, and Taiwan.
 
