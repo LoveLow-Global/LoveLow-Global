@@ -18,7 +18,7 @@ These are my ongoing projects / researches.
 * **Focus:** Natural Language Processing, Large Language Models, ALBERT, Artificial Intelligence
 * **Project:** Executing an NLP study utilizing ALBERT models to quantify and compare performance across historical and modern corpora of languages, including Modern English and Classical / Modern Chinese.
 
-### 3. [K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media](https://github.com/LoveLow-Global/kpop-agenda-sentiment)
+### 3. [K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media](https://github.com/LoveLow-Global/kpop-agenda)
 *(Yonsei University, Mar 2025-Apr 2025 & Nov 2025-Present)*
 * **Focus:** Natural Language Processing, Topic Modeling, Information Diffusion
 * **Project** Analyzing K-pop related articles by sorting them into distinct agenda topics, then comparing the characteristics of community response and sentiment diffusion across different online communities.
@@ -28,7 +28,7 @@ These are my ongoing projects / researches.
 | Institution | Degree/Program | GPA / Honors |
 | :--- | :--- | :--- |
 | **Yonsei University** | B.S. in Creative Technology Management & B.S. in Mathematics & Cognitive Science | GPA: 4.09/4.3, Major GPA: 4.26/4.3. Scheduled for early graduation. Awarded High Honors, Spring 2025. |
-| **Dartmouth College** | Exchange Student in Computer Science | GPA: 3.9/4.0. Selected as a Neukom Scholar for Winter 2026 for research on [Bernoulli-Directed Divisor Graphs and its Largest Strongly Connected Components](https://github.com/LoveLow-Global/BDDG_LCC). Selected as an **AI/Software specialized scholar** by the Korea Institute of Advanced Technology. |
+| **Dartmouth College** | Exchange Student in Computer Science | GPA: 3.89/4.0. Selected as a Neukom Scholar for Winter 2026 for research on [Bernoulli-Directed Divisor Graphs and its Largest Strongly Connected Components](https://github.com/LoveLow-Global/BDDG_LCC). Selected as an **AI/Software specialized scholar** by the Korea Institute of Advanced Technology. |
 
 ## Skills
 
