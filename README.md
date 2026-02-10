@@ -18,7 +18,7 @@ These are my ongoing projects / researches.
 * **Focus:** Natural Language Processing, Large Language Models, ALBERT, Artificial Intelligence
 * **Project:** Executing an NLP study utilizing ALBERT models to quantify and compare performance across historical and modern corpora of languages, including Modern English and Classical / Modern Chinese.
 
-### 3. [K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media](https://github.com/LoveLow-Global/kpop-agenda)
+### 3. [K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media](https://github.com/LoveLow-Global/k-pop-agenda)
 *(Yonsei University, Mar 2025-Apr 2025 & Nov 2025-Present)*
 * **Focus:** Natural Language Processing, Topic Modeling, Information Diffusion
 * **Project** Analyzing K-pop related articles by sorting them into distinct agenda topics, then comparing the characteristics of community response and sentiment diffusion across different online communities.
