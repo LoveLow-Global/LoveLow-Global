@@ -8,10 +8,10 @@ Currently based in New Hampshire, US.
 
 These are my ongoing projects / researches.
 
-### 1. [Bernoulli-Directed Divisor Graphs and its Largest SCC](https://github.com/LoveLow-Global/BDDG_LCC)
-*(Dartmouth College, May 2025-Present)*
+### 1. [Randomly Oriented Divisor Graphs and its Largest SCC](https://github.com/LoveLow-Global/BDDG_LCC)
+*(Dartmouth College, May 2025-Mar 2026)*
 * **Focus:** Graphs, Probability Theory, Number Theory
-* **Discovery:** Discovered that a randomly directed divisor graph forms a largest Strongly Connected Component (SCC) with unique, previously unseen properties.
+* **Discovery:** Discovered that a randomly oriented divisor graph forms a largest Strongly Connected Component (SCC) with unique, previously unseen properties.
 
 ### 2. Comparison between Classical Chinese and Modern Languages in Language Model Pre-Training
 *(Dartmouth College, Oct 2025-Present)*
