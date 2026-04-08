@@ -6,12 +6,12 @@ Currently based in New Hampshire, US.
 
 ## Ongoing Projects
 
-These are my ongoing projects / researches.
+These are my projects / researches.
 
-### 1. [Randomly Oriented Divisor Graphs and its Largest SCC](https://github.com/LoveLow-Global/BDDG_LCC)
-*(Dartmouth College, May 2025-Mar 2026)*
-* **Focus:** Graphs, Probability Theory, Number Theory
-* **Discovery:** Discovered that a randomly oriented divisor graph forms a largest Strongly Connected Component (SCC) with unique, previously unseen properties.
+### 1. [On the largest strongly connected component of randomly oriented divisor graphs](https://arxiv.org/abs/2604.05176)
+*(Dartmouth College, May 2025 - Apr 2026)*
+* **Subject:** Random Graphs and Number Theory
+* **About:** Introduced the study of *randomly oriented divisor graphs*.
 
 ### 2. Comparison between Classical Chinese and Modern Languages in Language Model Pre-Training
 *(Dartmouth College, Oct 2025-Present)*
@@ -28,7 +28,7 @@ These are my ongoing projects / researches.
 | Institution | Degree/Program | GPA / Honors |
 | :--- | :--- | :--- |
 | **Yonsei University** | B.S. in Creative Technology Management & B.S. in Mathematics & Cognitive Science | GPA: 4.09/4.3, Major GPA: 4.26/4.3. Scheduled for early graduation. Awarded High Honors, Spring 2025. |
-| **Dartmouth College** | Exchange Student in Computer Science | GPA: 3.89/4.0. Selected as a Neukom Scholar for Winter 2026 for research on [Bernoulli-Directed Divisor Graphs and its Largest Strongly Connected Components](https://github.com/LoveLow-Global/BDDG_LCC). Selected as an **AI/Software specialized scholar** by the Korea Institute of Advanced Technology. |
+| **Dartmouth College** | Exchange Student in Computer Science | GPA: 3.83/4.0. Selected as a Neukom Scholar for Winter 2026 for research on [On the largest strongly connected component of randomly oriented divisor graphs](https://arxiv.org/abs/2604.05176). Selected as an **AI/Software specialized scholar** by the Korea Institute of Advanced Technology. |
 
 ## Skills
 
