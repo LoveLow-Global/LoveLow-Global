@@ -11,7 +11,7 @@ These are my projects & researches.
 * **Subject:** Random Graphs and Number Theory
 * **About:** Introduced the study of *randomly oriented divisor graphs*.
 
-### 2. K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media
+### 2. [K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media](https://github.com/LoveLow-Global/k-pop-agenda)
 *(Jun 2026)*
 * **Focus:** Natural Language Processing, Topic Modeling, and Information Diffusion
 * **Project:** Analyzing K-pop related articles by sorting them into distinct agenda topics, then comparing the characteristics of community response and sentiment diffusion across different online communities.
