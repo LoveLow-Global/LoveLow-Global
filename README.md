@@ -1,6 +1,6 @@
 # Hi, I'm Jihyung (you can call me Jay)
 
-I'm an Intern at PumasAI, and majoring in Creative Technology Management, Mathematics, and Cognitive Science at Yonsei University (although I'll likely drop one of the three majors before graduation). I used to be a Computer Science exchange student at Dartmouth College (2025-2026). Passionate about **Graphs & Networks using Julia**.
+I'm majoring in Creative Technology Management, Mathematics, and Cognitive Science at Yonsei University (although I'll likely drop one of the three majors before graduation). I used to be a Computer Science exchange student at Dartmouth College (2025-2026). Passionate about **Graphs & Networks using Julia**.
 
 ##  Projects & Researches
 
